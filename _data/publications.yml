@@ -1,6 +1,6 @@
 main:
   - title: End-to-End Driving with Online Trajectory Evaluation via BEV World Model
-    authors: <strong>Yingyan Li*</strong>, Yuqi Wang*, Yang Liu, Jiawei He, Lue Fan and Zhaoxiang Zhang
+    authors: <strong>Yingyan Li*</strong>, Yuqi Wang*, Yang Liu, Jiawei He, Lue Fan and Zhaoxiang Zhang
     conference_short: arxiv
     conference: arxiv preprint
     pdf: https://arxiv.org/pdf/2504.01941v1
