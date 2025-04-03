@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a fourth-year Ph.D. student at the NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. [Zhaoxiang Zhang](https://zhaoxiangzhang.net/) and Prof. [Tieniu Tan](https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=en).  
-Previously, I interned at TuSimple, where I was advised by [Naiyan Wang](https://winsty.net/).  
-Before that, I received my Bachelor's degree in Computer Science from the University of Chinese Academy of Sciences (UCAS) in 2021.
+I am currently a fourth-year Ph.D. student at the NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. [Zhaoxiang Zhang](https://zhaoxiangzhang.net/) and Prof. [Tieniu Tan](https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=en). Previously, I interned at TuSimple, where I was advised by [Naiyan Wang](https://winsty.net/). Before that, I received my Bachelor's degree in Computer Science from the University of Chinese Academy of Sciences (UCAS) in 2021.
 
 ## Research Interests
 
