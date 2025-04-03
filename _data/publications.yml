@@ -11,7 +11,7 @@ main:
 
 
   - title: Enhancing End-to-End Autonomous Driving with Latent World Model
-    authors: <strong>Yingyan Li</strong>, Lue Fan, Jiawei He, Yuqi Wang, Yuntao Chen, Zhaoxiang Zhang, Tieniu Tan
+    authors: <strong>Yingyan Li</strong>, Lue Fan, Jiawei He, Yuqi Wang, Yuntao Chen, Zhaoxiang Zhang and Tieniu Tan
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2025
     pdf: https://arxiv.org/pdf/2406.08481
@@ -21,7 +21,7 @@ main:
     #notes: Early Accept
 
   - title: Fully sparse fusion for 3d object detection
-    authors: <strong>Yingyan Li*</strong>, Lue Fan*, Yang Liu, Zehao Huang, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang, Tieniu Tan
+    authors: <strong>Yingyan Li*</strong>, Lue Fan*, Yang Liu, Zehao Huang, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang and Tieniu Tan
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
     pdf: https://arxiv.org/pdf/2304.12310
@@ -31,7 +31,7 @@ main:
     #notes: Early Accept
 
   - title: Densely constrained depth estimator for monocular 3d object detection
-    authors: <strong>Yingyan Li</strong>,, Yuntao Chen, Jiawei He, Zhaoxiang Zhang
+    authors: <strong>Yingyan Li</strong>,, Yuntao Chen, Jiawei He and Zhaoxiang Zhang
     conference_short: ECCV
     conference: European Conference on Computer Vision, 2022
     pdf: https://arxiv.org/pdf/2207.10047
