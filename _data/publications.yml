@@ -1,8 +1,8 @@
 main:
   - title: End-to-End Driving with Online Trajectory Evaluation via BEV World Model
     authors: <strong>Yingyan Li*</strong>, Yuqi Wang*, Yang Liu, Jiawei He, Lue Fan and Zhaoxiang Zhang
-    conference_short: arxiv
-    conference: arxiv preprint
+    conference_short: ICCV
+    conference: International Conference on Computer Vision (ICCV), 2025
     pdf: https://arxiv.org/pdf/2504.01941v1
     code: https://github.com/liyingyanUCAS/WoTE/tree/main
     #bibtex: https://bib.yliu.me/MICCAI23.txt
