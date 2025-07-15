@@ -13,7 +13,7 @@ I am currently a fourth-year Ph.D. student at the NLPR, Institute of Automation,
 - **3D Perception**
 
 ## News
-
+- **[Jun. 2025]** One paper accepted to **ICCV 2025**.  
 - **[Feb. 2025]** One paper accepted to **ICLR 2025**.  
 - **[Apr. 2024]** One paper accepted to **IEEE TPAMI**.  
 - **[Jul. 2022]** One paper accepted to **ECCV 2022**.
