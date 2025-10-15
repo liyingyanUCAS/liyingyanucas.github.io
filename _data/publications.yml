@@ -1,6 +1,6 @@
 main:
   - title: DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving
-    authors: Yingyan Li*, Shuyao Shang*, Weisong Liu*, Bing Zhan*, Haochen Wang*, Yuqi Wang, Yuntao Chen, Xiaoman Wang, Yasong An, Chufeng Tang, Lu Hou, Lue Fan and Zhaoxiang Zhang
+    authors: Yingyan Li*, Shuyao Shang*, Weisong Liu*, Bing Zhan*, Haochen Wang*, Yuqi Wang, Yuntao Chen, Xiaoman Wang, Yasong An, Chufeng Tang, Lu Hou, Lue Fan† and Zhaoxiang Zhang†
     conference_short: arxiv
     conference: arxiv
     pdf: https://arxiv.org/pdf/2510.12796
