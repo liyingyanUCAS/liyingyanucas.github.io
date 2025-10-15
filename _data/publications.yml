@@ -1,4 +1,13 @@
 main:
+  - title: DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving
+    authors: Yingyan Li*, Shuyao Shang*, Weisong Liu*, Bing Zhan*, Haochen Wang*, Yuqi Wang, Yuntao Chen, Xiaoman Wang, Yasong An, Chufeng Tang, Lu Hou, Lue Fan and Zhaoxiang Zhang
+    conference_short: arxiv
+    conference: arxiv
+    pdf: https://arxiv.org/pdf/2510.12796
+    code: https://github.com/BraveGroup/DriveVLA-W0
+    #bibtex: 
+    image: ./assets/img/drivevla_w0.png
+
   - title: End-to-End Driving with Online Trajectory Evaluation via BEV World Model
     authors: <strong>Yingyan Li*</strong>, Yuqi Wang*, Yang Liu, Jiawei He, Lue Fan and Zhaoxiang Zhang
     conference_short: ICCV
